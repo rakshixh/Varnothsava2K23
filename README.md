@@ -10,3 +10,4 @@ This website is mobile, tab and PC friendly!
 It is a cool website!
 Amazing website with auto sliders!
 Varnothsava 2023
+College annual function website!
