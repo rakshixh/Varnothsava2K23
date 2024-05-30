@@ -8,3 +8,4 @@ https://user-images.githubusercontent.com/83587918/224536431-8ed0c06a-b439-4a38-
 
 This website is mobile, tab and PC friendly!
 It is a cool website!
+Amazing website with auto sliders!
