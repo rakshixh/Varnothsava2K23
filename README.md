@@ -1,8 +1,24 @@
-# varnothsava2K23
+# Varnothsava 2K23
 
-promo video
-https://user-images.githubusercontent.com/83587918/224536413-9c7e646f-0034-4af4-b21e-aee6583f78f5.mp4
+Welcome to the official repository for **Varnothsava 2K23**, the website for SMVITM's College event!
 
-course video
-https://user-images.githubusercontent.com/83587918/224536431-8ed0c06a-b439-4a38-a32e-0bf675746d70.mp4
+## About the Event
 
+Varnothsava is an annual cultural fest organized by SMVITM. This event showcases the diverse talents and cultural richness of our students. Varnothsava 2K23 promises to be a vibrant celebration filled with exciting activities, performances, and competitions.
+
+## Features
+
+- Event details and schedule
+- Online registration for participants
+- Gallery showcasing highlights from previous events
+- Contact information for event organizers
+
+## Technologies Used
+
+- **JavaScript** (86.4%)
+- **HTML** (7.7%)
+- **CSS** (5.9%)
+
+## License
+
+This project is licensed under the MIT License.
