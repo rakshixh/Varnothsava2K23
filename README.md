@@ -18,3 +18,7 @@ Varnothsava is an annual cultural fest organized by SMVITM. This event showcases
 - **JavaScript** (86.4%)
 - **HTML** (7.7%)
 - **CSS** (5.9%)
+
+## Acknowledgments
+
+The inspiration for the website's design and structure was drawn from various online resources and publicly available designs.
